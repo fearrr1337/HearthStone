@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVxpt1wZSXU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Академия\\source\\repos\\HearthStone\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Академия\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

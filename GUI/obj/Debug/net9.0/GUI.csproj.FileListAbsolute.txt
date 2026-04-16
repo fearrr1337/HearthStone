@@ -1,0 +1,12 @@
+C:\Users\Академия\source\repos\HearthStone\GUI\bin\Debug\net9.0\GUI.deps.json
+C:\Users\Академия\source\repos\HearthStone\GUI\bin\Debug\net9.0\GUI.dll
+C:\Users\Академия\source\repos\HearthStone\GUI\bin\Debug\net9.0\GUI.pdb
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.AssemblyInfoInputs.cache
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.AssemblyInfo.cs
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.dll
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\refint\GUI.dll
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.pdb
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\ref\GUI.dll
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.csproj.AssemblyReference.cache

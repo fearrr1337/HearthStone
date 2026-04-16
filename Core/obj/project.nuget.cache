@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnDqzT7pkaw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Академия\\source\\repos\\HearthStone\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Академия\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
