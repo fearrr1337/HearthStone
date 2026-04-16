@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HearthStone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c118879633287703ae3f4454774aaf1af9560186")]
 [assembly: System.Reflection.AssemblyProductAttribute("HearthStone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HearthStone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

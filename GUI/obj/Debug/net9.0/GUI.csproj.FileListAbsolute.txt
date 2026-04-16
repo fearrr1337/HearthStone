@@ -10,3 +10,4 @@ C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\refint\G
 C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.pdb
 C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\ref\GUI.dll
 C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.csproj.AssemblyReference.cache
+C:\Users\Академия\source\repos\HearthStone\GUI\obj\Debug\net9.0\GUI.sourcelink.json

@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GUI;
+using static GUI.GUI;
 
 namespace Core
 {
-    internal class Creature
+    public class Creature : Card
     {
+
     }
 }

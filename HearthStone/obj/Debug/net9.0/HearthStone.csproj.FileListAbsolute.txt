@@ -22,3 +22,6 @@ C:\Users\Академия\source\repos\HearthStone\HearthStone\obj\Debug\net9.0\
 C:\Users\Академия\source\repos\HearthStone\HearthStone\obj\Debug\net9.0\HearthStone.pdb
 C:\Users\Академия\source\repos\HearthStone\HearthStone\obj\Debug\net9.0\HearthStone.genruntimeconfig.cache
 C:\Users\Академия\source\repos\HearthStone\HearthStone\obj\Debug\net9.0\ref\HearthStone.dll
+C:\Users\Академия\source\repos\HearthStone\HearthStone\obj\Debug\net9.0\HearthStone.sourcelink.json
+C:\Users\Академия\source\repos\HearthStone\HearthStone\bin\Debug\net9.0\Core.dll
+C:\Users\Академия\source\repos\HearthStone\HearthStone\bin\Debug\net9.0\Core.pdb

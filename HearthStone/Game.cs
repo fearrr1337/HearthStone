@@ -7,8 +7,10 @@ using System.Text;
 using System.Threading.Tasks;
 using static Raylib_cs.Raylib;
 
+using static GUI.GUI;
 using GUI;
 using System.Numerics;
+using Core;
 
 
 namespace HearthStone
@@ -94,6 +96,9 @@ namespace HearthStone
                 }
             };
 
+            Card c1 = Card.CardConstructor("Phoenix", "Deathrattle: Resurrects with full health after 2 turns.");
+            Card c2 = Card.CardConstructor("Chronogogr", "Battlecry: Rewinds the last action taken this turn.");
+
 
 
             while (!WindowShouldClose())
@@ -108,6 +113,8 @@ namespace HearthStone
                     b1.Enabled = !b1.Enabled;
                 }
                 b1.Draw();
+                c1.Draw(new Vector2(400,400));
+                c2.Draw(new Vector2(100, 450));
                 DrawFPS(0, 0);
 
                 EndDrawing();

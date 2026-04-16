@@ -37,6 +37,19 @@
           }
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "GUI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "GUI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -75,6 +88,11 @@
         "runtimes/win-x86/native/raylib.dll"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "GUI/1.0.0": {
       "type": "project",
       "path": "../GUI/GUI.csproj",
@@ -83,6 +101,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Core >= 1.0.0",
       "GUI >= 1.0.0"
     ]
   },
@@ -118,6 +137,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\Академия\\source\\repos\\HearthStone\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Академия\\source\\repos\\HearthStone\\Core\\Core.csproj"
+            },
             "C:\\Users\\Академия\\source\\repos\\HearthStone\\GUI\\GUI.csproj": {
               "projectPath": "C:\\Users\\Академия\\source\\repos\\HearthStone\\GUI\\GUI.csproj"
             }
