@@ -52,8 +52,7 @@ namespace GUI
 
 
         // CARD DESCRIPTION
-        public static LabelConfig CardDe
-            scriptionActive = new LabelConfig
+        public static LabelConfig CardDescriptionActive = new LabelConfig
         {
             Background = new ColorField { Radius = 0.2f, Color = new Color(245, 179, 66) },
             Border = new ColorBorder { Radius = 0.2f, Color = new Color(5, 72, 255), Thikness = 3 },
